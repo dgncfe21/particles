@@ -8,7 +8,7 @@ body{
     height: 100vh;
     width: 100%;
     position: relative;
-    background-color: black;
+    background-color: #5dd4d4;
     display: flex;
     justify-content: center;
     align-items: center;
